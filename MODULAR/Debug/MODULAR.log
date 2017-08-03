@@ -1,0 +1,21 @@
+﻿  vector3.cpp
+  triangle.cpp
+  token.cpp
+token.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+token.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  tester.cpp
+c:\users\devin andres salemi\desktop\cs169\project 4\modular\grid.h(18): warning C4551: function call missing argument list
+tester.cpp(93): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+tester.cpp(95): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  springdamper.cpp
+  particle.cpp
+  matrix34.cpp
+  cube.cpp
+  core.cpp
+  cloth.cpp
+  camera.cpp
+  Generating Code...
+  MODULAR.vcxproj -> C:\Users\Devin Andres Salemi\Desktop\CS169\Project 4\MODULAR\Debug\MODULAR.exe
+  MODULAR.vcxproj -> C:\Users\Devin Andres Salemi\Desktop\CS169\Project 4\MODULAR\Debug\MODULAR.pdb (Full PDB)
